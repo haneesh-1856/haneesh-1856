@@ -12,4 +12,4 @@ sources actually support, and what every model call costs.
 
 **Tools I use:** Python · Claude API · structured outputs · LLM evaluation · embeddings · Whisper · PySpark · SQL · Docker · Kubernetes · Terraform · Azure DevOps · GCP
 
-**More:** [Portfolio](https://haneesh-1856.github.io) · [LinkedIn](https://www.linkedin.com/in/haneesh-sriram/) · haneeshchowdary12@gmail.com
+**Contact:** [LinkedIn](https://www.linkedin.com/in/haneesh-sriram/) · haneeshchowdary12@gmail.com

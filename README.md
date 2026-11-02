@@ -4,6 +4,8 @@ AI engineer finishing an MS in Computer Science at UMKC (December 2026), with 2 
 I build LLM applications that are measured, not just demoed: how often the safety layer gets it right, which sentences the
 sources actually support, and what every model call costs.
 
+[AIdea Daily on RSS.com](https://rss.com/podcasts/aidea-daily/)
+
 **Featured work**
 
 - **[RGV: LLM safety guardrails](https://github.com/haneesh-1856/RGV-llm-safety-guardrails)**: a conversational tool for everyday worries with a layered safety pipeline (keyword prefilter plus an LLM classifier on every message) that routes to 1 of 19 outcomes, including crisis. Evaluated on 50 adversarial multi-turn conversations and 150 labeled statements (93.6% category agreement). Sole-author manuscript submitted to JMIR AI, under peer review.
